@@ -1,0 +1,17 @@
+# Secrets and local environments
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+# Generated embedded builds
+Debug/
+Release/
+build/
+*.elf
+*.bin
+*.hex
+*.map
+# OS files
+.DS_Store
+Thumbs.db
